@@ -34,4 +34,7 @@ In NYC because the area is fairly small there is always a station close to you, 
 
 ## Is this the right business for Des Moines
 
-There is more research for this business venture to say the least, the information provided here is to show how popular this is in large cities like New York City. Leaning into Des Moisnes we would need to survey the city layout, where are bussinesses and other employers housed, how do people usually get to work?  Is there a bike culture in Des Moines? Are there bike paths set in place, or how can we separate traffic from our investment in these bicycles? Once all this information is recevied the program can be slowly rolled out to see how it's received by the public. If this is something we want to fully go out with there might need to be incentives offered by employers and schools to encourage the use of the program. 
+There is more research needed for this bussiness venture to say the least, the information provided here is to show how popular this is in a large cities like New York City. Leaning into Des Moisnes we would need to survey the city layout, where are bussinesses and other employers housed, how do people usually get to work?  Is there a bike culture in Des Moines? Are there bike paths set in place, or how can we separate traffic from our investment in these bicycles? Once all this information is recevied the program can be slowly rolled out to see how it's received by the public. If this is something we want to fully go out with or will we need to incentivize the program via employers or schools.
+
+Link to Tableau
+[link to dashboard](https://public.tableau.com/app/profile/luz.maria4458/viz/newBikedatastats/Bikesharing)
